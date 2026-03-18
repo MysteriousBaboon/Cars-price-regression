@@ -1,2 +1,14 @@
-# This is machine learning project to predict car price based on multiples factors like Horsepower, Torque, Height... etc.
-## You can find the Data in the CSV and the result of my analysis and prediction in the Notebook
+# Cars Price Regression
+
+> Projet d'apprentissage — 2020
+
+Modèle de régression pour prédire le prix de véhicules à partir de caractéristiques techniques (puissance, couple, dimensions, etc.).
+
+## Contenu
+
+- `fullspecs.csv` — Dataset
+- `fullspecs.ipynb` — Analyse exploratoire, feature engineering et modèle de prédiction
+
+## Stack
+
+Python · Pandas · Scikit-learn · Matplotlib
